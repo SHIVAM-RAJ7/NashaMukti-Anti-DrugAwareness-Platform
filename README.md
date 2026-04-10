@@ -211,7 +211,7 @@ com.example.mukt/
 **1. Clone the repository**
 ```bash
 git clone https://github.com/SHIVAM-RAJ7/NashaMukti-Anti-DrugAwareness-Platform.git
-cd Mukt
+cd NashaMukti-Anti-DrugAwareness-Platform
 ```
 
 **2. Open in Android Studio**
